@@ -1,8 +1,6 @@
 {
-  "name": "vivo-biblia",
-  "private": true,
+  "name": "vivo-biblia-pwa",
   "version": "1.0.0",
-  "description": "VIVO - Biblia para jóvenes con IA pastoral responsable",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -16,8 +14,6 @@
   "devDependencies": {
     "@vitejs/plugin-react": "^4.2.1",
     "vite": "^5.1.4",
-    "vite-plugin-pwa": "^0.19.2"
-  },
-  "keywords": ["biblia", "jovenes", "pastoral"],
-  "author": "Raúl Tobón"
+    "vite-plugin-pwa": "^0.17.5"
+  }
 }
